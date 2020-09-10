@@ -1,7 +1,7 @@
 # EDA
 Data understanding and visualization
 
-Bank Customer Churn Prediction: In this I am going to make an Exploratory Data Analysis (EDA) on this dataset. 
+Bank Customer Churn Prediction: In this project I am going to make an Exploratory Data Analysis (EDA) on the dataset. 
 
 Outlines:
 
