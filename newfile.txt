@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 new file-1
 this is a new file...
+=======
+new file-1 
+this is check for newfile 
+>>>>>>> e49344dd6e57e3841932b5f8997b17522f649ed8
